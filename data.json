@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "title": "First Task",
+      "description": "Desc for first task",
+      "id": "cfd9ea3f-bee9-47a1-bc8c-1005613051cc",
+      "is_completed": false,
+      "created_at": "2025-10-16T07:25:26.474142Z"
+    },
+    {
+      "title": "Second Task",
+      "description": "Desc for second task",
+      "id": "c88778a7-682c-4c02-bcc0-a7770b3fcc6c",
+      "is_completed": false,
+      "created_at": "2025-10-16T07:25:42.046975Z"
+    }
+  ]
+}
